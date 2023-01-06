@@ -67,7 +67,7 @@ body {
   scale: 3;
 }
 
-@keyframes shine {
+@keyframes border-shine {
   0% {
     border: 5px solid aqua;
   }
