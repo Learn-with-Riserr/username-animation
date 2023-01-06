@@ -54,7 +54,7 @@ body {
 
 .textbox :is(input:focus, input:valid) {
   padding-left: 20px;
-  animation: shine 1s infinite alternate;
+  animation: border-shine 1s infinite alternate;
 }
 
 .textbox :is(input:focus, input:valid) ~ label {
